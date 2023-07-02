@@ -1,0 +1,2 @@
+# mTraviBot
+Minimalistic Travian Bot
