@@ -3,10 +3,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
-
-USER_NAME=maRi
-PASSWORD=mari93
-
 def main():
     # Configure Selenium options
     options = Options()
